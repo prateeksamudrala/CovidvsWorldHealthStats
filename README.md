@@ -1,23 +1,28 @@
 # DSC530TermProject
-**Data Files: 
-**
+**Data Files:**
 
 30-70cancerChdEtc
+
 alcoholSubstanceAbuse
+
 country_wise_latest
+
 population25SDG3.8.2
+
 tobaccoAge15
 
-**Presentation and writeup files:
-**
+**Presentation and writeup files:**
+
 dsc530finalprojectpowerpoint_jyothisamudrala
+
 dsc530finalprojectwriteup_jyothisamudrala
 
-**Code file: 
-**
+**Code file:**
+
 Final Project Code - DSC 530 - Jyothi Samudrala.ipynb
 
-Project: COVID death rate and World Health Statistics
+**Project: COVID death rate and World Health Statistics**
+
 Is covid death rate higher in countries where alcohol consumption is higher?
 
 Is covid death rate higher in countries that have a high probability of death from non-communicable diseases (cancer, heart disease etc.)?
