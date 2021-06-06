@@ -1,5 +1,6 @@
 # DSC530TermProject
-Data Files: 
+**Data Files: 
+**
 
 30-70cancerChdEtc
 alcoholSubstanceAbuse
@@ -7,13 +8,13 @@ country_wise_latest
 population25SDG3.8.2
 tobaccoAge15
 
-Presentation and writeup files:
-
+**Presentation and writeup files:
+**
 dsc530finalprojectpowerpoint_jyothisamudrala
 dsc530finalprojectwriteup_jyothisamudrala
 
-Code file: 
-
+**Code file: 
+**
 Final Project Code - DSC 530 - Jyothi Samudrala.ipynb
 
 Project: COVID death rate and World Health Statistics
